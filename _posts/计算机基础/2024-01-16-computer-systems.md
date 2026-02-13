@@ -8,8 +8,6 @@ header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
 tags:
     - 计算机基础
-    - 系统架构
-    - 操作系统
 ---
 
 ## 计算机系统概述

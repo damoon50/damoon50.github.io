@@ -9,7 +9,6 @@ catalog: true
 tags:
     - CTF
     - 网络安全
-    - 入门指南
 ---
 
 ## 什么是 CTF？
