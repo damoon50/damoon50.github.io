@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "vue项目的整个构建流程"
-subtitle: "vue项目的整个构建流程"
-date: 2026-03-5
+title: "Vue 项目的整个构建流程"
+subtitle: "从创建项目到页面渲染的完整流程解析"
+date: 2026-03-11
 author: "b0t"
-header-img: "img/post-bg-unix-linux.jpg"
+header-img: "img/post-bg-vue.jpg"
 catalog: true
 tags:
-    - 计算机基础
+  - Vue3
+  - 前端开发
+  - 项目构建
 ---
 
 # 一、Vue 项目的整体流程
