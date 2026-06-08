@@ -14,6 +14,8 @@ tags:
     - BLAKE2b
 ---
 
+{% raw %}
+
 ## phone_num
 
 输入手机号获取验证码：输入15555555555
@@ -2566,3 +2568,5 @@ def mix_checksum_native(bytes_1_to_4):
 |getVA (hkey)|⚠️ 部分完成|~60%|
 |getVD (vd2)|⚠️ 初步分析|~30%|
 |_s 传输方式|❌ 未知|0%|
+
+{% endraw %}
